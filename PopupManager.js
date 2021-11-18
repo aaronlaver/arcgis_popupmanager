@@ -1,4 +1,5 @@
 // THIS FILE HAS BEEN MODIFIED FROM ITS ORIGINAL VERSION BY AARON LAVER
+// This content comes "as is" without any warranty of success and being fit for purpose.
 ///////////////////////////////////////////////////////////////////////////
 // Copyright © Esri. All Rights Reserved.
 //
